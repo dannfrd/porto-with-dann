@@ -1,5 +1,5 @@
 import { InlineCode } from "@/once-ui/components";
-import { Certificate } from "crypto";
+// import { Certificate } from "crypto";
 
 const person = {
   firstName: "Ardan",
